@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeRepo", "PracticeRepo\PracticeRepo.csproj", "{85C3413F-4B4C-4BC1-B20F-936402CD1CB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85C3413F-4B4C-4BC1-B20F-936402CD1CB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85C3413F-4B4C-4BC1-B20F-936402CD1CB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85C3413F-4B4C-4BC1-B20F-936402CD1CB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85C3413F-4B4C-4BC1-B20F-936402CD1CB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D91D208A-725E-448C-80D2-54BE113D8657}
+	EndGlobalSection
+EndGlobal
